@@ -1,0 +1,23 @@
+{
+  "name": "resource-js-apis-socialnetwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resource-solutions/resource-js-apis-socialnetwork.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/resource-solutions/resource-js-apis-socialnetwork/issues"
+  },
+  "homepage": "https://github.com/resource-solutions/resource-js-apis-socialnetwork#readme",
+  "dependencies": {
+    "googleapis": "^13.0.0",
+    "twitter-node-client": "0.0.6"
+  }
+}
