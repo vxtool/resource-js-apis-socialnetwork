@@ -1,7 +1,12 @@
 # Get APIs of Social Network
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/resource-solutions/resource-js-apis-socialnetwork.svg?style=flat-square)](https://github.com/resource-solutions/resource-js-apis-socialnetwork/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/resource-js-apis-socialnetwork.svg)](https://github.com/org-victorinox/resource-js-apis-socialnetwork/issues)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/org-victorinox/resource-js-apis-socialnetwork.svg)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/resource-js-apis-socialnetwork.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/resource-js-apis-socialnetwork.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/resource-js-apis-socialnetwork.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/resource-js-apis-socialnetwork/total.svg)
 
 ## Contributing
 
@@ -13,7 +18,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/resource-solutions/resource-js-apis-socialnetwork/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/resource-js-apis-socialnetwork/releases) for detailed changelog.
 
 ## License
 
