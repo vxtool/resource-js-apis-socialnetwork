@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/resource-solutions/resource-js-apis-socialnetwork#readme",
   "dependencies": {
-    "googleapis": "^13.0.0",
+    "googleapis": "^59.0.0",
     "twitter-node-client": "0.0.6"
   }
 }
